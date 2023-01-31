@@ -15,10 +15,6 @@ namespace LeedCodeExercise.Problem
         static void Main(string[] args)
         {
             new No746_Min_Cost_Climbing_Stairs().Test();
-
-
-
-
         }
     }
 }
