@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using LeedCodeExercise.Problem.Medium;
 using LeedCodeExercise.Problem.Easy;
 using LeedCodeExercise.Problem.Interview;
+using LeedCodeExercise.Problem.Hard;
 
 namespace LeedCodeExercise.Problem
 {
@@ -14,7 +15,7 @@ namespace LeedCodeExercise.Problem
     {
         static void Main(string[] args)
         {
-            new No746_Min_Cost_Climbing_Stairs().Test();
+            new No85_Maximal_Rectangle().Test();
         }
     }
 }
