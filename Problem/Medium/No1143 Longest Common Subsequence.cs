@@ -33,7 +33,7 @@ namespace LeedCodeExercise.Problem.Medium
 
         public void Test()
         {
-            Console.WriteLine(new Solution().LongestCommonSubsequence("asd", "dasdasdasdasd"));
+            Console.WriteLine(new Solution().LongestCommonSubsequence("asdaaaasd", "asdasdasd"));
         }
     }
 }
