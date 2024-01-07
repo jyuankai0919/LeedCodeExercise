@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4WF0TGNeNmYNFImVYrG5g0nqplP21eC9q11rvu/eYAUFSxbEtFWxDoanCq+5lmK++hDBQiFSJGdCOPytYutUMQ==",
+  "dgSpecHash": "CXVD7Hk0+qtoISHJ5/nFTGYdhkc/c7/c4GTmNd9oRAKm8xiNXEDEjqPfIVY3FW+mXrtAkQtNN7PTv3ZrL9swuQ==",
   "success": true,
-  "projectFilePath": "D:\\C# project\\LeedCodeExercise\\LeedCodeExercise\\LeedCodeExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/LeedCodeExercise/LeedCodeExercise.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/6.0.20/microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.20/microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.20/microsoft.netcore.app.host.linux-x64.6.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
