@@ -31,7 +31,6 @@ namespace LeedCodeExercise.Problem.Easy
 
                 return result + Change(chars[chars.Length - 1]);
             }
-
             public int Change(char c)
             {
 
@@ -57,10 +56,28 @@ namespace LeedCodeExercise.Problem.Easy
             }
 
         }
-
         public void Test()
         {
-            Console.WriteLine(new Solution().RomanToInt("IV"));
+            TestRomanToInt("III", 3);
+            TestRomanToInt("IV", 4);
+            TestRomanToInt("IX", 9);
+            TestRomanToInt("LVIII", 58);
+            TestRomanToInt("MCMXCIV", 1994);
+        }
+        public void TestRomanToInt(string romanNumeral, int expected)
+        {
+            Solution solution = new Solution();
+            int result = solution.RomanToInt(romanNumeral);
+            Console.WriteLine($"Roman numeral: {romanNumeral}, Expected: {expected}, Result: {result}");
+            if (result == expected)
+            {
+                Console.WriteLine("Test Passed");
+            }
+            else
+            {
+                Console.WriteLine("Test Failed");
+            }
+            Console.WriteLine();
         }
     }
 }
