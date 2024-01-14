@@ -15,7 +15,7 @@ namespace LeedCodeExercise.Problem
     {
         static void Main(string[] args)
         {
-            new No744_Find_Smallest_Letter_Greater_Than_Target().Test();
+            new No14_Longest_Common_Prefix().Test();
         }
     }
   
