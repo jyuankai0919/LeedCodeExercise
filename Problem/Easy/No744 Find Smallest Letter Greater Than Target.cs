@@ -42,7 +42,7 @@ namespace LeedCodeExercise.Problem.Easy
 
                 // Act
                 var solution = new Solution();
-                var result = solution.NextGreatestLetter(letters, target);
+                var result = solution.NextGreatestLetter(letters ?? Array.Empty<char>(), target);
 
                 // Assert
                 if (result == expected)

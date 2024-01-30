@@ -15,7 +15,7 @@ namespace LeedCodeExercise.Problem
     {
         static void Main(string[] args)
         {
-            new No9_Palindrome_Number().Test();
+            new No27_Remove_Element().Test();
         }
     }
   
