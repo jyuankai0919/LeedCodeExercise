@@ -15,7 +15,7 @@ namespace LeedCodeExercise.Problem
     {
         static void Main(string[] args)
         {
-            new No14_Longest_Common_Prefix().Test();
+            new No9_Palindrome_Number().Test();
         }
     }
   

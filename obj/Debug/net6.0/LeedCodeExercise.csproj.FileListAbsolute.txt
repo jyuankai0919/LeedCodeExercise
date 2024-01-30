@@ -28,3 +28,11 @@ D:/C# project/LeedCodeExercise/LeedCodeExercise/obj/Debug/net6.0/refint/LeedCode
 /workspaces/LeedCodeExercise/obj/Debug/net6.0/LeedCodeExercise.pdb
 /workspaces/LeedCodeExercise/obj/Debug/net6.0/LeedCodeExercise.genruntimeconfig.cache
 /workspaces/LeedCodeExercise/obj/Debug/net6.0/ref/LeedCodeExercise.dll
+/workspaces/LeedCodeExercise/bin/Debug/net6.0/xunit.runner.visualstudio.testadapter.dll
+/workspaces/LeedCodeExercise/bin/Debug/net6.0/xunit.runner.reporters.netcoreapp10.dll
+/workspaces/LeedCodeExercise/bin/Debug/net6.0/xunit.runner.utility.netcoreapp10.dll
+/workspaces/LeedCodeExercise/bin/Debug/net6.0/xunit.abstractions.dll
+/workspaces/LeedCodeExercise/bin/Debug/net6.0/xunit.assert.dll
+/workspaces/LeedCodeExercise/bin/Debug/net6.0/xunit.core.dll
+/workspaces/LeedCodeExercise/bin/Debug/net6.0/xunit.execution.dotnet.dll
+/workspaces/LeedCodeExercise/obj/Debug/net6.0/LeedCodeExercise.csproj.CopyComplete
