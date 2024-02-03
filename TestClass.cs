@@ -15,7 +15,7 @@ namespace LeedCodeExercise.Problem
     {
         static void Main(string[] args)
         {
-            new No27_Remove_Element().Test();
+            new No66_Plus_One().Test();
         }
     }
   
